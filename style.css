@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    padding: 20px;
+    border-radius: 15px;
+    border: none;
+    background: linear-gradient(45deg, #40d0c6, #c049bc);
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 600;
+    cursor: pointer;
+}
